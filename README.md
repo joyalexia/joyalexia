@@ -1,25 +1,32 @@
- # **Hi, I'm Joyce** 👩‍💻 👋 
-![GitHub Logo](16202113844337.jpg)
-## Who am I? 
+# Welcome!
 
-* 👩‍🎓 Bacharel em Ciência da Computação.
-* 👩‍💻 Estudante de Ciência de Dados.
+ 
 
-## Skills 👩‍💻
+## I'm (SEU NOME)!
 
-* 🐍 Python.
-* 🗄 SQL.
-* 💻 C#.
-* 🧮 Power BI.
-* 🔮 Machine Learning. 
+ 
+
+:computer: I'm Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
 
-## Where to find me :earth_americas:
 
-*  [Linkedin](https://www.linkedin.com/in/joyce-alexia-da-silva-novais-254a47164/)
-*  [Instagram](https://www.instagram.com/jhoyalexia/)
+- Thanks for visiting.
 
-
+- Enjoy it!! o/
 
 
 
