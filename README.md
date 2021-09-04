@@ -1,5 +1,5 @@
  # **Hi, I'm Joyce** 👩‍💻 👋 
-
+![GitHub Logo](16202113844337.jpg)
 ## Who am I? 
 
 * 👩‍🎓 Bacharel em Ciência da Computação.
