@@ -14,7 +14,7 @@
 * 🔮 Machine Learning. 
 
 
-## Find me around the world :earth_americas:
+## Where find me :earth_americas:
 
 *  [Linkedin](https://www.linkedin.com/in/joyce-alexia-da-silva-novais-254a47164/)
 *  [Instagram](https://www.instagram.com/jhoyalexia/)
