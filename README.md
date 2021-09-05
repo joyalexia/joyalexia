@@ -13,7 +13,7 @@
 * 🧮 Power BI.
 * 🔮 Machine Learning. 
 
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/jhoyalexia/jhoyalexia/main/github-contribution-grid-snake.svg)
 ## Where to find me :earth_americas:
 
 *  [Linkedin](https://www.linkedin.com/in/joyce-alexia-da-silva-novais-254a47164/)
