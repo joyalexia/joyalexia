@@ -1,16 +1,15 @@
-### Hi there 👋
+ # **Hi, I'm Joyce** 👩‍💻 👋 
 
-<!--
-**joyalexia/joyalexia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I? 
 
-Here are some ideas to get you started:
+* 👩‍🎓 Bacharel Ciência da Computação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 👩‍💻
+
+* 🐍 Python.
+* 🗄 SQL.
+* 💻 C#.
+
+## Where to find me :earth_americas:
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=008000)](https://www.linkedin.com/in/joyce-alexia-254a47164/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=008000)](https://www.instagram.com/jhoyalexia/)
