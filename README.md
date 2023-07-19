@@ -1,7 +1,5 @@
  # **Hi, I'm Joyce** 👩‍💻 👋 
 
-## Who am I? 
-
 * 👩‍🎓 Bacharel Ciência da Computação.
 
 ## Skills 👩‍💻
