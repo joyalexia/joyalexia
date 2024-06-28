@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Joyce;Welcome+to+my+GitHub+Profile!:D)](https://git.io/typing-svg)
 
-<p>Olá amigo(a)! Sou de Guarulhos - São Paulo, formada em Ciência da Computação e estou aqui buscando cada vez mais conhecimento, oportunidade e experiência na área. Busco sempre estudar e me atualizar, acredito na diferença que a educação e a tecnologia podem fazer na vida das pessoas. Aqui compartilho o que aprendo e contribuo com o conhecimento que tenho. :D</p> 
+<p>Olá amigo(a)! Sou de Guarulhos-SP, formada em Ciência da Computação e estou aqui buscando cada vez mais conhecimento, oportunidade e experiência na área. Busco sempre estudar e me atualizar, acredito na diferença que a educação e a tecnologia podem fazer na vida das pessoas. Aqui compartilho o que aprendo e contribuo com o conhecimento que tenho. :D</p> 
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOYALEXIA&theme=transparent&bg_color=000&border_color=008000&show_icons=true&icon_color=008000&title_color=008000&text_color=FFF) 
